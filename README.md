@@ -88,8 +88,3 @@ tu_carpeta_de_imagenes/
 * **`classes.csv`**: Almacena el mapeo de tus etiquetas. Puedes editarlo manualmente si lo deseas.
 * **`Yolov8/`**: Contiene un archivo `.txt` por cada imagen etiquetada, con las anotaciones en formato YOLOv8.
 
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
