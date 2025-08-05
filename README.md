@@ -4,7 +4,7 @@ Una aplicación de escritorio intuitiva y eficiente, desarrollada en Python con 
 
 ### 🎥 Demostración
 
-![Demostración de la Herramienta de Etiquetado](https://github.com/viccorari/Data-Labeling-Software/blob/main/Video_software_demo)
+![Demostración de la Herramienta de Etiquetado]([https://github.com/viccorari/Data-Labeling-Software/blob/main/Video_software_demo](https://github.com/viccorari/Data-Labeling-Software/blob/main/software%20de%20etiquetado.gif))
 
 ---
 
